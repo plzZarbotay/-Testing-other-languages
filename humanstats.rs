@@ -16,3 +16,4 @@ fn main()  -> io::Result<()>{
      println!("Ссылка на ваш код: {}", project);
     Ok(())
 }
+//fpr
